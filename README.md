@@ -2,7 +2,7 @@
 
 </ul><h2> Preview ⚡️</h2>
 <p align="center">
-  <img src="./" alt=" Jarvis AI" width="100%" />
+  <img src="./img/CRUD Operations Screenshots.jpg" alt=" CRUD Operations" width="100%" />
 </p>
 
 ## Features 🔥
@@ -22,7 +22,7 @@
 
 ```bash
 #1. clone this project
-~ git clone
+~ git clone https://github.com/ashishthomas/CRUD-App.git
 
 #2. Open the index.html file in your browser
 ~ open index.html
