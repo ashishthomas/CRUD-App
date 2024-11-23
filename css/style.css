@@ -1,3 +1,6 @@
+*{
+    background-color: #2d79a2;
+}
 #container {
     max-width: 800px;
     margin: 0 auto;
@@ -6,12 +9,22 @@
   
   h1 {
     margin-top: 0;
+    color: #ddc515;
   }
-  
+   
   #input-container {
     margin-bottom: 20px;
   }
   
+  #name-input::placeholder {
+    color: white;
+  }
+
+  #email-input::placeholder {
+    color: white;
+  }
+
+
   #name-input,
   #email-input,
   #update-name-input,
@@ -46,7 +59,7 @@
   button:hover {
     background-color: #3e8e41;
   }
-  
+    
   table {
     border-collapse: collapse;
     width: 100%;
@@ -58,6 +71,7 @@
     padding: 10px;
     text-align: left;
     border-bottom: 1px solid #ddd;
+    color: white;
   }
   
   th {
@@ -76,7 +90,7 @@
   }
   
   #cancel-btn {
-    background-color: #f44336;
+    background-color: #7b7a7a;
   }
   
   .edit-btn{
